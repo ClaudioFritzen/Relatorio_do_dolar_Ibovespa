@@ -1,0 +1,7 @@
+Projeto - Relatório de fechamento de mercado por e-mail
+
+Desafio : Contruir um email
+que chegue na caixa de 
+entrada todos os dias com 
+as informações de fechamento
+do IBOVESPA e dólar.
